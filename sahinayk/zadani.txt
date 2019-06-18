@@ -1,0 +1,2 @@
+
+	This is a 2D Sandbox game where we control a wizard character whose name is Chipmunk the Great. Chimpunk the Great has to kill all the zombies and win the game. Throughoutta game he should spend his golds on improving his battle skills even more and be the winner.

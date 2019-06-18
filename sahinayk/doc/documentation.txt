@@ -1,0 +1,39 @@
+!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!
+
+All the graphics for the game and the savegame file are accessed by using such a pathname: /root/Documents/sempro/sahinayk/src/..
+	if the game doesnt start on your computer its because the program doesnt find such a path.
+	Contact the developer or if you are a better programmer fix it yourself.
+
+!!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!
+
+
+
+
+
+	The game starts with a titlescreen and if you press enter when the start button is *chosen then the game will start to be played.
+
+	If you are to press enter when the continue is chosen, the game will look for a saved state and if there is one it will load that saved game state and will let the player continue playing it. If there is no saved game state then it wont do anything.
+
+	*chosen: There is an animation going on in the titlescreen of the game where you can move between the buttons with arrow keys.
+
+
+
+	The controls consists of the following:
+
+		Run with the keys A (left) and D (right).
+		Jump with the key W.
+		Attack with the key N.
+		Buy health with the key 1 on numpad.
+		Buy armor with the key 2 on numpad.
+		Buy attack power with the key 3 on numpad.
+		Save with the key P.
+
+
+
+	Description of the gameplay:
+
+		There are 20 levels in total and they are randomly prepared for each successful completion of one level. Chipmunk the Great is our little wizard guy trying to battle with different kind of zombies. In each level there will be a randomly generated zombie out of three types of zombies. The zombies have different attributes like some of them is faster but more squishy or very strong but slow e.g. Each time the player kills an enemy and passes a level the player will be awarded some amount of gold which the player can spend to develop Chipmunk the Great for further battles.
+
+		Also in the map there are not just land but also water and lava. For the water part Chipmunk the Great should avoid it because it slows him down. For the lava part our guy should avoid it because it's pretty hot and Chipmunk the Great gets hurt.
+
+		If we reach the level 20 and survive it as well, the player wins the game. If, somehow, our little guy fails surviving the game ends as well.
